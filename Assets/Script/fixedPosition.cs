@@ -9,6 +9,6 @@ public class FixedPosition : MonoBehaviour
     private void Update()
     {
         // Fixing the position based on the player's Y position
-        transform.position = new Vector3(transform.position.x, player.position.y + 6.3f, transform.position.z);
+        transform.position = new Vector3(transform.position.x, player.position.y + 6.1f, transform.position.z);
     }
 }
