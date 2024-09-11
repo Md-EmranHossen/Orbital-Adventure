@@ -1,4 +1,6 @@
 # Orbital-Adventure
+[Watch GamePlay Video](https://github.com/Md-EmranHossen/Orbital-Adventure/blob/main/GamePlay.mp4)
+
 We are **Binary_Brains**, a dynamic team of five passionate students from Bangladesh University of Business and Technology (BUBT), participating in the **NASA Space Apps Challenge 2024**. Our mission is to make exoplanet education engaging and accessible. Through diverse skills in game development, UI/UX design, research, and prototyping, we aim to create innovative solutions that bridge educational gaps in underserved communities.
 
 Md Emran Hossen (Team Leader): A visionary leader and software developer, Emran is committed to revolutionizing the way students learn about exoplanets through interactive, creative solutions. His leadership ensures that the team’s vision and goals are aligned and executed efficiently.
