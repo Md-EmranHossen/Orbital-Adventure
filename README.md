@@ -106,7 +106,7 @@ Unity supports building 2D games for multiple platforms including:
    - **Mobile**: iOS and Android.
    - **Web**: WebGL for browser-based 2D games.
 
-By combining these technologies, Unity offers a comprehensive solution for developing 2D games, allowing developers to create highly polished and optimized games with ease.
+
 ## Prototype
 ![View-1](/Prototype/1.png)
 
